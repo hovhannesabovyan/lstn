@@ -1,0 +1,33 @@
+.image_info{
+    text-align: center;
+    text-transform: uppercase;
+    width: 50px;
+    padding: 13px 10px;
+    margin: auto;
+    border-radius: 25px;
+    background-color: linen;
+    font-family: fangsong;
+    font-size: 22px;
+    box-shadow: 0px 0px 20px rgba(115,115,115, 0.8);
+}
+
+.field-label_form-logo>label,
+.field-artist_form-image>label,
+.field-releases_form-release_logo>label,
+.field-releases_form-cover_image>label,
+.field-track_release-track>label{
+    border: 1px solid;
+    padding: 5px 10px;
+    border-radius: 15px;
+    cursor: pointer;
+}
+
+.field-label_form-parent_label{
+    display: none;
+}
+
+#add_genre,#edit,#remove{
+    padding: 5px 10px;
+    height: 45px;
+    margin-left: 5px;
+}

@@ -1,0 +1,216 @@
+<?xml version="1.0"?>
+<release>
+    <album_action>
+                updated            </album_action>
+    <aggregatorName>["\u0410\u0440\u0442\u0438\u0441\u0442 1"]</aggregatorName>
+    <labelName>Lable 1</labelName>
+    <UPC_EAN> / </UPC_EAN>
+    <catalogNumber></catalogNumber>
+    <coverArtFilename></coverArtFilename>
+    <releaseTitle>Релиз 1</releaseTitle>
+    <releaseDescription>sdf</releaseDescription>
+    <tracks>
+                    <track>
+            <albumOnly>0</albumOnly>
+            <trackNumber>4</trackNumber>
+            <ISRC>US5UL1823318</ISRC>
+            <trackPublisher></trackPublisher>
+            <trackTitle>dfgdf</trackTitle>
+            <trackMixVersion>mix</trackMixVersion>
+            <originalReleaseDate>2020-01-15</originalReleaseDate>
+            <beatportExclusive>
+                <exclusivePeriod>0</exclusivePeriod>
+            </beatportExclusive>
+            <trackArtists>
+                <artistName>a</artistName>
+            </trackArtists>
+            <trackAudioFile>
+                <audioFilename>Anush Petrosyan - Kenact tuynov 2016.mp3</audioFilename>
+            </trackAudioFile>
+
+                            <countriesAvailable>
+                                            <country>Abkhazia</country>
+                                            <country>Australia</country>
+                                            <country>Austria</country>
+                                            <country>Azerbaijan</country>
+                                            <country>Aland Islands</country>
+                                            <country>Algeria</country>
+                                            <country>Albania</country>
+                                            <country>Anguilla</country>
+                                            <country>Angola</country>
+                                            <country>Andorra</country>
+                                            <country>Argentina</country>
+                                            <country>Armenia</country>
+                                            <country>Afghanistan</country>
+                                            <country>Bahamas</country>
+                                            <country>Bangladesh</country>
+                                            <country>Barbados</country>
+                                            <country>Bahrain</country>
+                                            <country>Belarus</country>
+                                            <country>Belize</country>
+                                            <country>Belgium</country>
+                                            <country>Benin</country>
+                                            <country>Bulgaria</country>
+                                            <country>Bolivia</country>
+                                            <country>Bosnia & Herzegovina</country>
+                                            <country>Botswana</country>
+                                            <country>Brazil</country>
+                                            <country>Brunei Darussalam</country>
+                                            <country>Burundi</country>
+                                            <country>Bhutan</country>
+                                            <country>Vatican City</country>
+                                            <country>United Kingdom</country>
+                                            <country>Hungary</country>
+                                            <country>Venezuela</country>
+                                            <country>Timor, East</country>
+                                            <country>Viet Nam</country>
+                                            <country>Gabon</country>
+                                            <country>Haiti</country>
+                                            <country>Gambia</country>
+                                            <country>Ghana</country>
+                                            <country>Guadeloupe</country>
+                                            <country>Guatemala</country>
+                                            <country>Guinea</country>
+                                            <country>Guinea-Bissau</country>
+                                            <country>Germany</country>
+                                            <country>Gibraltar</country>
+                                            <country>Hong Kong</country>
+                                            <country>Honduras</country>
+                                            <country>Grenada</country>
+                                            <country>Greenland</country>
+                                            <country>Greece</country>
+                                            <country>Georgia</country>
+                                            <country>Guam</country>
+                                            <country>Denmark</country>
+                                            <country>Dominica</country>
+                                            <country>Dominican Republic</country>
+                                            <country>Egypt</country>
+                                            <country>Zambia</country>
+                                            <country>Western Sahara</country>
+                                            <country>Zimbabwe</country>
+                                            <country>Israel</country>
+                                            <country>India</country>
+                                            <country>Indonesia</country>
+                                            <country>Jordan</country>
+                                            <country>Iraq</country>
+                                            <country>Iran</country>
+                                            <country>Ireland</country>
+                                            <country>Iceland</country>
+                                            <country>Spain</country>
+                                            <country>Italy</country>
+                                            <country>Yemen</country>
+                                            <country>Kazakhstan</country>
+                                            <country>Cambodia</country>
+                                            <country>Cameroon</country>
+                                            <country>Canada</country>
+                                            <country>Qatar</country>
+                                            <country>Kenya</country>
+                                            <country>Cyprus</country>
+                                            <country>Kyrgyzstan</country>
+                                            <country>Kiribati</country>
+                                            <country>China</country>
+                                            <country>Colombia</country>
+                                            <country>Korea, D.P.R.</country>
+                                            <country>Korea</country>
+                                            <country>Costa Rica</country>
+                                            <country>Cote d'Ivoire</country>
+                                            <country>Cuba</country>
+                                            <country>Kuwait</country>
+                                            <country>Lao P.D.R.</country>
+                                            <country>Latvia</country>
+                                            <country>Lesotho</country>
+                                            <country>Liberia</country>
+                                            <country>Lebanon</country>
+                                            <country>Libyan Arab Jamahiriya</country>
+                                            <country>Lithuania</country>
+                                            <country>Liechtenstein</country>
+                                            <country>Luxembourg</country>
+                                            <country>Mauritius</country>
+                                            <country>Mauritania</country>
+                                            <country>Madagascar</country>
+                                            <country>Macedonia</country>
+                                            <country>Malawi</country>
+                                            <country>Malawi</country>
+                                            <country>Malaysia</country>
+                                            <country>Mali</country>
+                                            <country>Maldives</country>
+                                            <country>Malta</country>
+                                            <country>Morocco</country>
+                                            <country>Mexico</country>
+                                            <country>Mozambique</country>
+                                            <country>Moldova</country>
+                                            <country>Monaco</country>
+                                            <country>Mongolia</country>
+                                            <country>Namibia</country>
+                                            <country>Nepal</country>
+                                            <country>Niger</country>
+                                            <country>Nigeria</country>
+                                            <country>Netherlands</country>
+                                            <country>Nicaragua</country>
+                                            <country>New Zealand</country>
+                                            <country>Norway</country>
+                                            <country>United Arab Emirates</country>
+                                            <country>Oman</country>
+                                            <country>Pakistan</country>
+                                            <country>Panama</country>
+                                            <country>Paraguay</country>
+                                            <country>Peru</country>
+                                            <country>Poland</country>
+                                            <country>Portugal</country>
+                                            <country>Russia</country>
+                                            <country>Romania</country>
+                                            <country>San Marino</country>
+                                            <country>Saudi Arabia</country>
+                                            <country>Senegal</country>
+                                            <country>Serbia</country>
+                                            <country>Singapore</country>
+                                            <country>Syrian Arab Republic</country>
+                                            <country>Slovakia</country>
+                                            <country>Slovenia</country>
+                                            <country>Somalia</country>
+                                            <country>Sudan</country>
+                                            <country>USA</country>
+                                            <country>Tajikistan</country>
+                                            <country>Thailand</country>
+                                            <country>Tanzania</country>
+                                            <country>Togo</country>
+                                            <country>Tunisia</country>
+                                            <country>Turkmenistan</country>
+                                            <country>Turkey</country>
+                                            <country>Uganda</country>
+                                            <country>Uzbekistan</country>
+                                            <country>Ukraine</country>
+                                            <country>Uruguay</country>
+                                            <country>Micronesia</country>
+                                            <country>Fiji</country>
+                                            <country>Philippines</country>
+                                            <country>Finland</country>
+                                            <country>France</country>
+                                            <country>Croatia</country>
+                                            <country>Chad</country>
+                                            <country>Montenegro</country>
+                                            <country>Czech Republic</country>
+                                            <country>Chile</country>
+                                            <country>Switzerland</country>
+                                            <country>Sweden</country>
+                                            <country>Sri Lanka</country>
+                                            <country>Ecuador</country>
+                                            <country>Eritrea</country>
+                                            <country>Estonia</country>
+                                            <country>Ethiopia</country>
+                                            <country>South Africa</country>
+                                            <country>Jamaica</country>
+                                            <country>Japan</country>
+                    
+                </countriesAvailable>
+            
+            <trackGenre>Folk-music</trackGenre>
+            <trackCopyright> </trackCopyright>
+            <songwriters>
+                <songwriter>
+                    <name>Above Envy</name>
+                </songwriter>
+            </songwriters>
+            </track>
+            </tracks>
+</release>
